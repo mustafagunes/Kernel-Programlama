@@ -1,0 +1,1 @@
+cmd_/home/gunes/Masaüstü/kernelProject/Ders6/startstop.o := ld -m elf_x86_64   -r -o /home/gunes/Masaüstü/kernelProject/Ders6/startstop.o /home/gunes/Masaüstü/kernelProject/Ders6/start.o /home/gunes/Masaüstü/kernelProject/Ders6/stop.o 

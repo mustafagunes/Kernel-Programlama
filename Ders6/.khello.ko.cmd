@@ -1,0 +1,1 @@
+cmd_/home/gunes/Masaüstü/kernelProject/Ders6/khello.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/gunes/Masaüstü/kernelProject/Ders6/khello.ko /home/gunes/Masaüstü/kernelProject/Ders6/khello.o /home/gunes/Masaüstü/kernelProject/Ders6/khello.mod.o
