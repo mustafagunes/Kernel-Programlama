@@ -1,0 +1,1 @@
+cmd_/home/gunes/Masaüstü/kernelProject/Ders4/hello4.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/gunes/Masaüstü/kernelProject/Ders4/hello4.ko /home/gunes/Masaüstü/kernelProject/Ders4/hello4.o /home/gunes/Masaüstü/kernelProject/Ders4/hello4.mod.o
